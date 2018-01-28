@@ -1,10 +1,12 @@
-/*
 # waterfalls-problem
 
 ## Plan of Attack
 [] Complete setup notes (est. 30m)
+
 [] Complete Javascript implementation (est. 15)
+
 [] Implement tests w/ Jest  (est. 20)
+
 ---
 > Total time to completion: 1hr 5m
 
@@ -86,4 +88,3 @@ const findMaxWaterBetweenWalls = (walls) => {
 
 };
 
-*/
